@@ -6,13 +6,13 @@
 - Used Tools: VScode, Git, Anaconda Environment.
 
 ## [Project 2: ASL Prediction Model Comparison](https://github.com/vimaleshraja/ASL_Model_Selection)
-- This project different comparison of models and data preprocessing methodologies.
+- This project different comparison of models and data preprocessing methodologies for efficient image classification task.
 - A brief comparison of Support Vector Machines (SVM) and Convolutional Neural Network (CNN) for image classification
 - Group Project of 3 people. My contributions was in Preprocessing, and SVM model comparison 
 - Used Libraries: Pandas, Numpy, Scikit Learn, Scipy, Matplotlib, Seaborn, Tensorflow
 - Used Tools: Jupyter Notebook, Anaconda Environment, Linux
 
-# [Project 3: Car selling price prediction : Project overview](https://github.com/Smit271/Car-selling-price-prediction)
+# [Project 3: Food Recognition Using CNN and EfficientNet](https://github.com/vimaleshraja/Food_Recognition)
 - Created Machine learning regression project using scikit-learn library of python.
 - It takes such details of car and in return gives approximate price like all other car-selling business sites for example cars24.
 - Used <i>Regression supervised learning</i>.
