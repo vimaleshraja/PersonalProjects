@@ -18,7 +18,7 @@
 - Got validation accuracy of 81.5% using EfficientnetV2 .
 - Group Project of 3 people. My contributions was in Preprocessing, and EfficientnetV2 model comparison.
 - Used Libraries: Pandas, Numpy, Scikit Learn, Scipy, Matplotlib, Seaborn, Tensorflow
-- Used Tools: Jupyter Notebook, Anaconda Environment, Latex
+- Used Tools: Jupyter Notebook, Anaconda Environment, Latex.
 
 ### This Website is still in progress for more projects have a look at my Github profile. Thanks!!!
 <div size='26px'> Thank You for taking the time to view my GitHub Profile.
