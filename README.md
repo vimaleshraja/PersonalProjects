@@ -1,11 +1,11 @@
-## This page gives a brief description of my projects and their Demo.
+# This page gives a brief description of my projects and their Demo.
 
-### [Project 1: ASL Prediction using Vanilla CNN 5 Layered Architecture](https://github.com/vimaleshraja/flask_ASL)
+## [Project 1: ASL Prediction using Vanilla CNN 5 Layered Architecture](https://github.com/vimaleshraja/flask_ASL)
 - Used Flask to deploy the CNN model for predicting American Sign Language.
 - Used Libraries: Pandas, Numpy, Tensorflow, Flask.
 - Used Tools: VScode, Git, Anaconda Environment.
 
-### [Project 2: ASL Prediction Model Comparison](https://github.com/vimaleshraja/ASL_Model_Selection)
+## [Project 2: ASL Prediction Model Comparison](https://github.com/vimaleshraja/ASL_Model_Selection)
 - This project different comparison of models and data preprocessing methodologies.
 - A brief comparison of Support Vector Machines (SVM) and Convolutional Neural Network (CNN) for image classification
 - Group Project of 3 people. My contributions was in Preprocessing, and SVM model comparison 
