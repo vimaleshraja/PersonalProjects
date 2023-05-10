@@ -7,17 +7,18 @@
 
 ## [Project 2: ASL Prediction Model Comparison](https://github.com/vimaleshraja/ASL_Model_Selection)
 - This project different comparison of models and data preprocessing methodologies for efficient image classification task.
-- A brief comparison of Support Vector Machines (SVM) and Convolutional Neural Network (CNN) for image classification
-- Group Project of 3 people. My contributions was in Preprocessing, and SVM model comparison 
+- A brief comparison of Support Vector Machines (SVM) and Convolutional Neural Network (CNN) for image classification.
+- Group Project of 3 people. My contributions was in Preprocessing, and SVM model comparison.
 - Used Libraries: Pandas, Numpy, Scikit Learn, Scipy, Matplotlib, Seaborn, Tensorflow
-- Used Tools: Jupyter Notebook, Anaconda Environment, Linux
+- Used Tools: Jupyter Notebook, Anaconda Environment, Linux, Latex
 
 ## [Project 3: Food Recognition Using CNN and EfficientNet](https://github.com/vimaleshraja/Food_Recognition)
-- Created Machine learning regression project using scikit-learn library of python.
-- It takes such details of car and in return gives approximate price like all other car-selling business sites for example cars24.
-- Used <i>Regression supervised learning</i>.
-- Dataset taken from Kaggle : [Data](https://github.com/Smit271/Car-selling-price-prediction/blob/main/data/Car_details_v3.csv)
-- Used <b>flask</b> framework to deploy it over web.
+- Used CNN 2-Layered, 5-Layered, 6-Layered with data augmentation, and EfficientnetV2 architecture.
+- Brief comparison of model perfomance and accuracy has been done.
+- Got validation accuracy of 81.5% using EfficientnetV2 .
+- Group Project of 3 people. My contributions was in Preprocessing, and EfficientnetV2 model comparison.
+- Used Libraries: Pandas, Numpy, Scikit Learn, Scipy, Matplotlib, Seaborn, Tensorflow
+- Used Tools: Jupyter Notebook, Anaconda Environment, Latex
 
 ### This Website is still in progress for more projects have a look at my Github profile. Thanks!!!
 <div size='26px'> Thank You for taking the time to view my GitHub Profile.
