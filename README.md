@@ -20,6 +20,30 @@
 - Used Libraries: Pandas, Numpy, Scikit Learn, Scipy, Matplotlib, Seaborn, Tensorflow
 - Used Tools: Jupyter Notebook, Anaconda Environment, Latex.
 
+## [Project 4: F1 Race Data Visualization](https://github.com/RajaVimalesh/UN5550)
+- A complete analysis on F1 Race happened from 1950-2022.
+- Various plots which include bar, line, area chart has been used to get insights of race.
+- Used streamlit to create interactive dashboard for the insights.
+- Group Project of 3 people. My contributions was in creating plots, dashboard, hosting it in the streamlit cloud.
+- Used Libraries: Pandas, Numpy, Streamlit, Matplotlib.
+- Used Tools: VScode, Anaconda Environment, Git, Streamlit Cloud.
+
+
+## [Project 5: Shuttle Bus Analysis](https://github.com/vimaleshraja/bus_arrival_analysis)
+- Analysis on the bus arrival time and the drivers efficiency of MTU campus shuttle.
+- Performed statistical methods like Two way Anova to check the efficiency of the driver.
+- Further performed Tukey's test to find which Time and driver had the best and worst efficient.
+- Used Tools: R, SAS
+
+
+## [Project 6: Call Drop Prediction Using XGBoost Regressor](https://github.com/vimaleshraja/calldrop)
+- Built a eXtreme Gradient Boosting Regression model for predicting the call drop on a Base Transeiver Station.
+- Model had an 6% loss on the Root Mean Squared Error of the training and test set.
+- Used Streamlit Library for getting insights on the dataset to find a trend or the seasonality of the dataset by visualization.
+- Used Libraries: Pandas, Numpy, Scikit Learn, Scipy, Matplotlib, Seaborn.
+- Used Tools: Python, VScode, Git, Streamlit Cloud.
+
+
 ### This Website is still in progress for more projects have a look at my Github profile. Thanks!!!
 <div size='26px'> Thank You for taking the time to view my GitHub Profile.
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"> </h2>
