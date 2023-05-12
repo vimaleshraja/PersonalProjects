@@ -1,4 +1,4 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: G-BQECG4WSWT
+google_analytics: [G-BQECG4WSWT]
