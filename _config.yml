@@ -1,6 +1,6 @@
-remote_theme: jekyll/minima
+theme: jekyll/minima
 
-plugins: 
--jekyll-remote-theme
+plugins:
+  - jekyll-remote-theme
 
 google_analytics: G-3507RSB2QY
