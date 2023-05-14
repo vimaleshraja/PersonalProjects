@@ -1,5 +1,5 @@
-remote_theme: minima
-jekyll_analytics:
-  GoogleAnalytics:          
-    id: G-3507RSB2QY         
-    anonymizeIp: false 
+remote_theme: jekyll/minima
+
+plugins: jekyll-remote-theme
+
+google_analytics: G-3507RSB2QY
