@@ -1,4 +1,4 @@
-# This page gives a brief description of my projects and their Demo.
+This page gives a brief description of my projects and their Demo.
 
 ## [Project 1: Portfolio Website Analytics - Live Dashboard of this Website](https://lookerstudio.google.com/s/gUyPPiDRr1I)
 - This Dashboard helped me explore Looker Dashboarding Tool.
