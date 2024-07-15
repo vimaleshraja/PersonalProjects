@@ -3,4 +3,4 @@ title: Vimalesh's Project Portfolio
 plugins:
   - jekyll-remote-theme
 
-google_analytics: G-3507RSB2QY
+google_analytics: ${{ secrets.GOOGLE_ANALYTICS }}
